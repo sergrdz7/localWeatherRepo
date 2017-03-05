@@ -19,6 +19,7 @@ Requirements/User-Stories
 Hints Provided by freeCodeCamp
 
 * freeCodecamp recommended using the Open Weather API.
+
 Issues:
 
 * Due to the constant changing of Open Weather API and browser location settings I had/still having problems updating the content of the app.  
